@@ -9,6 +9,18 @@
 2. 포인터 문법을 이해하고 메모리 구조와 연관지을 수 있다.  
 2. 표준 C언어 사용방법을 기반으로 알고리즘을 설계할 수 있다.  
 
+## 개발환경  
+    - OS: Windows10  
+    - IDE: devC++  
+    - Compiler: gcc  
+    - Debugger: gdb  
+
+> 기타) MacOS 확인 시 euc-kr to utf-8 변환 필요  
+    
+```
+    iconv -c -f euc-kr -t utf-8 [원본파일이름] > [변경파일이름] 
+```
+         
 
 ## 목차
 ### Day1
